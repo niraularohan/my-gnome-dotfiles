@@ -1,2 +1,2 @@
 # Screenshot
-![image](https://github.com/user-attachments/assets/d3bd46b6-6008-4a3e-a910-eb5edbdbb708)
+![image](https://github.com/user-attachments/assets/43bcba4a-f360-43c9-bb54-5613ebc6ad4b)
