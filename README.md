@@ -2,7 +2,7 @@
 1. Clone this repo.
 2. Put the contents of themes folder to ".themes" folder in your home directory, and the contents of icons folder to ".icons" folder in your home directory.
 
-Now, In Gnome Tweaks App:<br>
+<hr>Now, In Gnome Tweaks App:<br>
 For Cursor: Bibata Modern Classic<br>
 For Icons: Citrus Black Dark<br>
 For Shell: Graphite Dark Mod<br>
