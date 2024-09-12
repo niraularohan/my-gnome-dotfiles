@@ -1,8 +1,10 @@
-Bluetooth Quick Connect
+Essential:
 Blur my Shell
+Dash to Dock
+Media Label and Controls (Mpris Label)
+
+Optional:
 Caffeine
 Clipboard History
-Dash to Dock
 Emoji Copy
-Media Label and Controls (Mpris Label)
 Text Scaler
