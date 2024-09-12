@@ -1,3 +1,5 @@
+Head over to https://extensions.gnome.org/ to install the extensions in your system.
+
 Essential:
 Blur my Shell
 Dash to Dock
